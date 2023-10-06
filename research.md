@@ -31,31 +31,31 @@ permalink: /research/
 
 # Conferences and Workshops
 
-- IFABS Oxford Conference, 24-26 July 2023<br>
+- **IFABS Oxford Conference**, 24-26 July 2023<br>
   Presenter: *"What Drives International Consumption Risk Sharing? Economic or Financial Integration?"* (with M. Donadelli)
 
-- World Finance Conference, 1-3 August 2022<\br>
+- **World Finance Conference**, 1-3 August 2022<\br>
   Presenter: *"What Drives International Consumption Risk Sharing? Economic or Financial Integration?"* (with M. Donadelli)<br>
   Discussant: *"Impact of Trading Hours Extensions on Foreign Exchange Volatility: Intraday Evidence from the Moskow Exchange"* (M. Frömmel and E. Kadioglu)
 
-- Forecasting Financial Markets Conference, 29 June - 1 July 2022<br>
+- **Forecasting Financial Markets Conference**, 29 June - 1 July 2022<br>
   Presenter: *"What Drives International Consumption Risk Sharing? Economic or Financial Integration?"* (with M. Donadelli)
 
-- ReadingMetrics Workshop 2022, 9 June 2022<br>
+- **ReadingMetrics Workshop 2022**, 9 June 2022<br>
   Presenter: *"What Drives International Consumption Risk Sharing? Economic or Financial Integration?"* (with M. Donadelli)
 
-- Quantitative Finance Workshop, 31 March- 1 April 2022<br>
+- **Quantitative Finance Workshop**, 31 March- 1 April 2022<br>
   Presenter: *"European Post-COVID-19 Green Policy Announcements and Sectoral Stock Returns"* (with S. Borghesi, M. Castellini, N. Comincioli, M. Donadelli and S. Vergalli)
 
-- Anglo-French-Italian Macro Workshop, 10-11 December 2021<br>
+- **Anglo-French-Italian Macro Workshop**, 10-11 December 2021<br>
   Presenter: *"Home, sweet home: Residential prices and pandemics"* (with M. Donadelli, L. Gerotto and A. Paradiso)
 
-- Research Dialogues on the complexity of the energy transition Workshop, 6-7 December 2021<br>
+- **Research Dialogues on the complexity of the energy transition Workshop**, 6-7 December 2021<br>
   Presenter: *"European Post-COVID-19 Green Policy Announcements and Sectoral Stock Returns"* (with S. Borghesi, M. Castellini, N. Comincioli, M. Donadelli and S. Vergalli)
 
-- World Finance Conference 2020, 4-6 September 2020<\br>
+- **World Finance Conference 2020**, 4-6 September 2020<br>
   Presenter: *"Consumption Smooothing, Risk Sharing and Financial Integration"* (with M. Donadelli)<br>
   Discussant: *"Credits, Human Capital, and Adoption-The Case of Chile"* (M. E. Farias, J. Scavia and R. Fuentes) 
 
-- 2nd Annual Conference of the JRC Community of Practice in Financial Research (CoPFiR), 3-4 December 2019<br>
+- **2nd Annual Conference of the JRC Community of Practice in Financial Research (CoPFiR)**, 3-4 December 2019<br>
   Presenter: *"Consumption Smooothing, Risk Sharing and Financial Integration"* (with M. Donadelli)
