@@ -3,9 +3,8 @@ layout: page
 title: CV
 permalink: /CV/
 ---
-<a href="https://www.example.com">Visit Example.com</a>
 
-<div style="text-align:center;"> Full CV available <a href=https://www.dropbox.com/s/auwzhtjmo37omlx/CV.pdf?dl=0">here</a> (last update: June 2022)</div>
+<div style="text-align:center;"> Full CV available <a href="https://www.dropbox.com/s/auwzhtjmo37omlx/CV.pdf?dl=0">here</a> (last update: June 2022)</div>
 
 # Education
 - 2020 - present: **PhD candidate** in "Economics", Luiss Guido Carli University
