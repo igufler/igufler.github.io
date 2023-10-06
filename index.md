@@ -22,7 +22,7 @@ Previously he worked as Research Assistant Intern at the Venice centre in Econom
 
 
 His research interests lie in the fields of Finance and Macrofinance.<br></div>
-    <div style="flex: 1;">![Ivan Gufler]("ivangufler.png){width=200px height=100px}
+    <div style="flex: 1;">![Ivan Gufler](IvanGufler_Photo.jpg){width=200px height=100px}
 </div>
 </div>
 
