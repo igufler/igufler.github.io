@@ -27,6 +27,7 @@ Thesis: "Empirical Evidence of the Covered Interest Parity", Supervisor: Prof. L
 Grade: 110/110 cum laude
 
 **Research Experience**
+
 Feb 2021 - Nov 2022: External Research Collaborator within the project  *"Incorporating environmental, social and governance (ESG) criteria in credit analysis and ratings"* (EIBURS funding program), Department of Economics, Ca' Foscari University of Venice (Prof. Monica Billio)
 
 Jul 2019 - Nov 2019: Research Assistant Intern, Venice centre in Economic and Risk Analytics for public policies (VERA), Department of Economics, Ca' Foscari University of Venice
@@ -36,6 +37,7 @@ Project: "Measuring uncertainty in Italy  - A text-mining application"
 Supervisor: Prof. Paolo Pellizzari
 
 **Teaching Experience**
+
 Present:
 
 Sep 2022 - Dec 2022: Machine Learning for Finance (MSc), @Luiss Guido Carli, Teaching Assistant
