@@ -8,11 +8,11 @@ Full CV available [here](https://www.dropbox.com/s/auwzhtjmo37omlx/CV.pdf?dl=0) 
 
 # Education
 
-2020 - present: PhD candidate in "Economics", Luiss Guido Carli University
+- 2020 - present: PhD candidate in "Economics", Luiss Guido Carli University
 
-2023 - present: visiting PhD student, HEC Paris, Deparment of Finance
+- 2023 - present: visiting PhD student, HEC Paris, Deparment of Finance
 
-2018 - 2020: Master Degree in "Economics and Finance", curriculum Quantitative Economics, Ca' Foscari University of Venice
+- 2018 - 2020: Master Degree in "Economics and Finance", curriculum Quantitative Economics, Ca' Foscari University of Venice
 
 Thesis: *"The Short- and Long-run Implications of Financial Integration on Macroeconomic Stability"*, Supervisor: Prof. Michael Donadelli and Irene Mammi
 
@@ -26,7 +26,7 @@ Thesis: "Empirical Evidence of the Covered Interest Parity", Supervisor: Prof. L
 
 Grade: 110/110 cum laude
 
-**Research Experience**
+# Research Experience
 
 Feb 2021 - Nov 2022: External Research Collaborator within the project  *"Incorporating environmental, social and governance (ESG) criteria in credit analysis and ratings"* (EIBURS funding program), Department of Economics, Ca' Foscari University of Venice (Prof. Monica Billio)
 
@@ -36,7 +36,7 @@ Project: "Measuring uncertainty in Italy  - A text-mining application"
 
 Supervisor: Prof. Paolo Pellizzari
 
-**Teaching Experience**
+# Teaching Experience
 
 Present:
 
