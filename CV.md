@@ -6,7 +6,7 @@ permalink: /CV/
 
 Full CV available [here](https://www.dropbox.com/s/auwzhtjmo37omlx/CV.pdf?dl=0) (last update: June 2022)
 
-Education
+***Education***
 2020 - present: PhD candidate in "Economics", Luiss Guido Carli University
 
 2023 - present: visiting PhD student, HEC Paris, Deparment of Finance
@@ -50,8 +50,3 @@ Oct 2019 - Dec 2019: Mathematics (BSc), @Ca' Foscari University of Venice, Tutor
 Oct 2019 - Dec 2019: Public Economics (BSc), @Ca' Foscari University of Venice, Tutor
 
 Oct 2019 - Dec 2019: Data Analysis (BSc), @Ca' Foscari University of Venice, Tutor
-You can find the source code for the Jekyll new theme at:
-[sleek](https://github.com/janczizikow/sleek)
-
-You can find the source code for Jekyll at
-[jekyll](https://github.com/jekyll/jekyll)
