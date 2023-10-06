@@ -12,19 +12,25 @@ permalink: /CV/
 - 2023 - present:**Visiting PhD student**, HEC Paris, Deparment of Finance
 
 - 2018 - 2020: **Master Degree* in "Economics and Finance", curriculum Quantitative Economics, Ca' Foscari University of Venice
+
     Thesis: *"The Short- and Long-run Implications of Financial Integration on Macroeconomic Stability"*, Supervisor: Prof. Michael Donadelli and Irene Mammi
-    Grade: 110/110 cum laude 
+
+    Grade: 110/110 cum laude
+
     Winner of the "Riccardo Faini" degree award for the best theses in economic field (Department of Economics - Ca' Foscari University of Venice)
 
 - 2015 - 2018: **Bachelor Degree** in "Economics and Management", Ca' Foscari University of Venice
     Thesis: *"Empirical Evidence of the Covered Interest Parity"*, Supervisor: Prof. Loriana Pelizzon
+
     Grade: 110/110 cum laude
 
 # Research Experience
 - Feb 2021 - Nov 2022: External Research Collaborator within the project  *"Incorporating environmental, social and governance (ESG) criteria in credit analysis and ratings"* (EIBURS funding program), Department of Economics, Ca' Foscari University of Venice (Prof. Monica Billio)
 
 - Jul 2019 - Nov 2019: Research Assistant Intern, Venice centre in Economic and Risk Analytics for public policies (VERA), Department of Economics, Ca' Foscari University of Venice
+
     Project: *"Measuring uncertainty in Italy  - A text-mining application"* 
+
     Supervisor: Prof. Paolo Pellizzari
 
 # Teaching Experience
