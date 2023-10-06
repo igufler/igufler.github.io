@@ -25,10 +25,8 @@ His research interests lie in the fields of Finance and Macrofinance.<br></div>
 
 
 <div style="flex: 1;"><
-figure>
     <img src="/IvanGufler_Photo.jpg"
          alt="Ivan Gufler">
-</figure>
 </div>
 </div>
 
