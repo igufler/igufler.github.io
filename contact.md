@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-Mail: [[ivangufler26@gmail.com]](ivangufler26@gmail.com)
+Mail: [ivangufler26@gmail.com](ivangufler26@gmail.com)
 
 Skype: ivangufler
 
