@@ -6,6 +6,8 @@ permalink: /CV/
 
 <div style="text-align:center;"> Full CV available <a href="https://www.dropbox.com/s/auwzhtjmo37omlx/CV.pdf?dl=0">here</a> (last update: June 2022)</div>
 
+---
+
 # Education
 - 2020 - present: **PhD candidate** in "Economics", Luiss Guido Carli University
 
@@ -20,12 +22,16 @@ permalink: /CV/
     Thesis: *"Empirical Evidence of the Covered Interest Parity"*, Supervisor: Prof. Loriana Pelizzon<br>
     Grade: 110/110 cum laude<br>
 
+---
+
 # Research Experience
 - Feb 2021 - Nov 2022: External Research Collaborator within the project  *"Incorporating environmental, social and governance (ESG) criteria in credit analysis and ratings"* (EIBURS funding program), Department of Economics, Ca' Foscari University of Venice (Prof. Monica Billio)
 
 - Jul 2019 - Nov 2019: Research Assistant Intern, Venice centre in Economic and Risk Analytics for public policies (VERA), Department of Economics, Ca' Foscari University of Venice<br>
     Project: *"Measuring uncertainty in Italy  - A text-mining application"* <br>
     Supervisor: Prof. Paolo Pellizzari<br>
+
+---
 
 # Teaching Experience
 
