@@ -19,7 +19,8 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
-  - {name: 'About', link: '/about'}
+  - {name: 'CV', link: '/CV'}
+  - {name: 'Research', link: '/research'}
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
