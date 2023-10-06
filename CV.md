@@ -13,9 +13,12 @@ Full CV available [here](https://www.dropbox.com/s/auwzhtjmo37omlx/CV.pdf?dl=0) 
 - 2023 - present: visiting PhD student, HEC Paris, Deparment of Finance
 
 - 2018 - 2020: Master Degree in "Economics and Finance", curriculum Quantitative Economics, Ca' Foscari University of Venice
--- Thesis: *"The Short- and Long-run Implications of Financial Integration on Macroeconomic Stability"*, Supervisor: Prof. Michael Donadelli and Irene Mammi
--- Grade: 110/110 cum laude 
--- Winner of the "Riccardo Faini" degree award for the best theses in economic field (Department of Economics - Ca' Foscari University of Venice)
+
+Thesis: *"The Short- and Long-run Implications of Financial Integration on Macroeconomic Stability"*, Supervisor: Prof. Michael Donadelli and Irene Mammi
+
+Grade: 110/110 cum laude 
+
+Winner of the "Riccardo Faini" degree award for the best theses in economic field (Department of Economics - Ca' Foscari University of Venice)
 
 - 2015 - 2018: Bachelor Degree in "Economics and Management", Ca' Foscari University of Venice
 -- Thesis: "Empirical Evidence of the Covered Interest Parity", Supervisor: Prof. Loriana Pelizzon
