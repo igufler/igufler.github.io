@@ -6,7 +6,7 @@ permalink: /CV/
 
 Full CV available [here](https://www.dropbox.com/s/auwzhtjmo37omlx/CV.pdf?dl=0) (last update: June 2022)
 
-***Education***
+****Education****
 2020 - present: PhD candidate in "Economics", Luiss Guido Carli University
 
 2023 - present: visiting PhD student, HEC Paris, Deparment of Finance
