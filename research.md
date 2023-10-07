@@ -5,6 +5,8 @@ permalink: /research/
 ---
 
 ## Publications
+### Publications
+# Publications
 - *"European Post-COVID-19 Green Policy Announcements and Sectoral Stock Returns"* (with S. Borghesi, M. Castellini, N. Comincioli, M. Donadelli and S. Vergalli). **Energy Policy**, 2022, 113004.
 
 - *"Variability and Strictness in COVID-19 Government Policy Response: A Macro-Regional Assessment"* (with M. Donadelli, M. Lucchetta and R. Kizys). **Journal of Government and Economics**, 2022, 6, 100039.
