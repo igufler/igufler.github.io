@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-# Publications
+## Publications
 - *"European Post-COVID-19 Green Policy Announcements and Sectoral Stock Returns"* (with S. Borghesi, M. Castellini, N. Comincioli, M. Donadelli and S. Vergalli). **Energy Policy**, 2022, 113004.
 
 - *"Variability and Strictness in COVID-19 Government Policy Response: A Macro-Regional Assessment"* (with M. Donadelli, M. Lucchetta and R. Kizys). **Journal of Government and Economics**, 2022, 6, 100039.
@@ -19,23 +19,23 @@ permalink: /research/
 
 ---
 
-# Working papers
+## Working papers
 - *"Covid-19 in the Wall Street Journal: Stress in the News and Market Performance"* (with F. Carlini, V. Farina and D. Previtali) 
 
 ---
 
-# Book Chapters
+## Book Chapters
 - *On the impact of Covid-19-related-uncertainty* (with M. Castellini and M. Donadelli) in Billio, M. and Varotto, S., "A new world post COVID-19: lessons for business, the finance industry and policy makers", Ca' Foscari University Press,  2020. In the news: (FEEM) 
 
 ---
 
-# Conferences and Workshops
+## Conferences and Workshops
 
 - **IFABS Oxford Conference**, 24-26 July 2023<br>
   Presenter: *"What Drives International Consumption Risk Sharing? Economic or Financial Integration?"* (with M. Donadelli)
 
 - **World Finance Conference**, 1-3 August 2022<\br>
-  Presenter: *"What Drives International Consumption Risk Sharing? Economic or Financial Integration?"* (with M. Donadelli)<br>
+  Presenter: *"What Drives International Consumption Risk Sharing? Economic or Financial Integration?"* (with M. Donadelli)<\br>
   Discussant: *"Impact of Trading Hours Extensions on Foreign Exchange Volatility: Intraday Evidence from the Moskow Exchange"* (M. Frömmel and E. Kadioglu)
 
 - **Forecasting Financial Markets Conference**, 29 June - 1 July 2022<br>
