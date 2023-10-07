@@ -36,8 +36,8 @@ permalink: /research/
   Presenter: *"What Drives International Consumption Risk Sharing? Economic or Financial Integration?"* (with M. Donadelli)
 
 - **World Finance Conference**, 1-3 August 2022<\br>
-  Presenter: *"What Drives International Consumption Risk Sharing? Economic or Financial Integration?"* (with M. Donadelli)<\br>
-  Discussant: *"Impact of Trading Hours Extensions on Foreign Exchange Volatility: Intraday Evidence from the Moskow Exchange"* (M. Frömmel and E. Kadioglu)
+  Presenter: *"What Drives International Consumption Risk Sharing? Economic or Financial Integration?"* (with M. Donadelli)<\br> 
+Discussant: *"Impact of Trading Hours Extensions on Foreign Exchange Volatility: Intraday Evidence from the Moskow Exchange"* (M. Frömmel and E. Kadioglu)
 
 - **Forecasting Financial Markets Conference**, 29 June - 1 July 2022<br>
   Presenter: *"What Drives International Consumption Risk Sharing? Economic or Financial Integration?"* (with M. Donadelli)
