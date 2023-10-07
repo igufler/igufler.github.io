@@ -8,12 +8,12 @@ permalink: /CV/
 
 ---
 
-# Education
+## Education
 - 2020 - present: **PhD candidate** in "Economics", Luiss Guido Carli University
 
-- 2023 - present:**Visiting PhD student**, HEC Paris, Deparment of Finance
+- 2023 - present: **Visiting PhD student**, HEC Paris, Deparment of Finance
 
-- 2018 - 2020: **Master Degree* in "Economics and Finance", curriculum Quantitative Economics, Ca' Foscari University of Venice<br>
+- 2018 - 2020: **Master Degree** in "Economics and Finance", curriculum Quantitative Economics, Ca' Foscari University of Venice<br>
     Thesis: *"The Short- and Long-run Implications of Financial Integration on Macroeconomic Stability"*, Supervisor: Prof. Michael Donadelli and Irene Mammi<br>
     Grade: 110/110 cum laude<br>
     Winner of the "Riccardo Faini" degree award for the best theses in economic field (Department of Economics - Ca' Foscari University of Venice)<br>
@@ -24,7 +24,7 @@ permalink: /CV/
 
 ---
 
-# Research Experience
+## Research Experience
 - Feb 2021 - Nov 2022: External Research Collaborator within the project  *"Incorporating environmental, social and governance (ESG) criteria in credit analysis and ratings"* (EIBURS funding program), Department of Economics, Ca' Foscari University of Venice (Prof. Monica Billio)
 
 - Jul 2019 - Nov 2019: Research Assistant Intern, Venice centre in Economic and Risk Analytics for public policies (VERA), Department of Economics, Ca' Foscari University of Venice<br>
@@ -33,14 +33,13 @@ permalink: /CV/
 
 ---
 
-# Teaching Experience
+## Teaching Experience
 
 **Present:**
+- Sep 2022 - Aug 2023: Applied Statistics and Econometrics (BSc), @Luiss Guido Carli, Teaching Assistant
 
 - Sep 2022 - Dec 2022: Machine Learning for Finance (MSc), @Luiss Guido Carli, Teaching Assistant
  
-- Sep 2022 - Aug 2023: Applied Statistics and Econometrics (BSc), @Luiss Guido Carli, Teaching Assistant
-
 - Sep 2021 - Present: International Economics (MSc),  @Luiss Guido Carli, Teaching Assistant 
 
 **Past:**
