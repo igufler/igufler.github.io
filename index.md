@@ -9,7 +9,7 @@ title: Home
 ---
 
 <div style="display: flex;">
-    <div style="flex: 1;">Ivan Gufler is a Ph.D. Candidate in Economics at Luiss Guido Carli. He received his master’s degree in Economics and Finance (curriculum Quantitative Economics) from Ca’ Foscary University.<br>
+    <div style="flex: 2;">Ivan Gufler is a Ph.D. Candidate in Economics at Luiss Guido Carli. He received his master’s degree in Economics and Finance (curriculum Quantitative Economics) from Ca’ Foscary University.<br>
 <br>
 
 He is currently a visiting PhD student at the department of Finance of HEC Paris (until january 2024).<br>
@@ -29,7 +29,7 @@ His research interests lie in the fields of Finance and Macrofinance.<br></div>
 
 <div style="flex: 1;">
     <img src="/IvanGufler_Photo.jpg"
-         alt="Ivan Gufler" width="75" height="75"></div>
+         alt="Ivan Gufler" width="100" height="100"></div>
 </div>
 
 
